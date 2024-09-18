@@ -14,6 +14,7 @@
 - **SW1** is connected to **R4** and provides connectivity to **PC1**.
 - **R1** connects to the ISP router (**ISPR1**), which is **outside the OSPF domain**.
 - All routers are connected via point-to-point serial or Ethernet links with OSPF running in **Area 0**.
+<img src= "https://github.com/ro-drick/OSPF-Configuration/blob/main/ospf-configuration.PNG">
 
 ---
 
